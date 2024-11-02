@@ -196,7 +196,7 @@ checksum = "94143f37725109f92c262ed2cf5e59bce7498c01bcc1502d7b9afe439a4e9f49"
 
 [[package]]
 name = "shared-tokio-runtime"
-version = "0.1.5"
+version = "0.1.6"
 dependencies = [
  "lazy_static",
  "shared-tokio-runtime-macros",
@@ -205,9 +205,9 @@ dependencies = [
 
 [[package]]
 name = "shared-tokio-runtime-macros"
-version = "0.1.5"
+version = "0.1.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6b5c5ae3892ec9d01fa586c207187524314f2d0eb29e323f236c888a8e885e20"
+checksum = "7bf5e766bd0764bf38475ace8439ac6249a9395881d94e69baf6f9dc3a6337d5"
 dependencies = [
  "quote",
  "syn",
